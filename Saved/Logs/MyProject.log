@@ -1129,3 +1129,35 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.08.22-15.26.14:812][700]LogAudio: Warning: Detected orphaned looping sound 'stoneTempleMusic'.
 [2022.08.22-15.26.25:980][373]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
 [2022.08.22-15.26.25:980][373]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.08.22-15.26.51:465][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.22-15.26.51:465][639]LogWorld: BeginTearingDown for /Game/PROJECT/MAP/UEDPIE_0_MAP
+[2022.08.22-15.26.51:465][639]LogSlate: Window 'MyProject Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2022.08.22-15.26.51:470][639]LogWorld: UWorld::CleanupWorld for MAP, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-15.26.51:471][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-15.26.51:478][639]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.22-15.26.51:484][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-15.26.51:515][639]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.22-15.26.51:516][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.22-15.26.51:517][639]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.08.22-15.26.51:550][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.08.22-15.26.51:759][640]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.08.22-15.26.56:072][900]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-15.26.56:072][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-15.26.56:080][900]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-15.26.56:080][900]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-15.26.56:582][937]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-15.26.56:582][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-15.26.56:589][937]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.08.22-15.26.56:590][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.22-15.26.59:029][177]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.08.22-15.27.00:607][177]LogSlate: Window 'Save Content' being destroyed
+[2022.08.22-15.27.00:626][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/introSGS" FILE="C:/Users/jorda/Desktop/Puzzle/puzzle-unreal/Content/Movies/introSGS.uasset" SILENT=true
+[2022.08.22-15.27.00:627][177]LogSavePackage: Moving 'C:/Users/jorda/Desktop/Puzzle/puzzle-unreal/Saved/introSGS300BE8004B7C46FE6378EA8856BE5DB6.tmp' to 'C:/Users/jorda/Desktop/Puzzle/puzzle-unreal/Content/Movies/introSGS.uasset'
+[2022.08.22-15.27.00:633][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/NewMediaPlayer_Video_2" FILE="C:/Users/jorda/Desktop/Puzzle/puzzle-unreal/Content/Movies/NewMediaPlayer_Video_2.uasset" SILENT=true
+[2022.08.22-15.27.00:636][177]LogSavePackage: Moving 'C:/Users/jorda/Desktop/Puzzle/puzzle-unreal/Saved/NewMediaPlayer_Video_2C14EE0E4477E3437330C27AF861DF823.tmp' to 'C:/Users/jorda/Desktop/Puzzle/puzzle-unreal/Content/Movies/NewMediaPlayer_Video_2.uasset'
+[2022.08.22-15.27.00:649][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Movies/NewMediaPlayer_Video_2_Mat_SGS" FILE="C:/Users/jorda/Desktop/Puzzle/puzzle-unreal/Content/Movies/NewMediaPlayer_Video_2_Mat_SGS.uasset" SILENT=true
+[2022.08.22-15.27.00:653][177]LogSavePackage: Moving 'C:/Users/jorda/Desktop/Puzzle/puzzle-unreal/Saved/NewMediaPlayer_Video_2_Mat_SGS5CE3FD254E9D7A3819819C89661DC64C.tmp' to 'C:/Users/jorda/Desktop/Puzzle/puzzle-unreal/Content/Movies/NewMediaPlayer_Video_2_Mat_SGS.uasset'
+[2022.08.22-15.27.00:665][177]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.22-15.27.00:665][177]LogContentValidation: Display: Validating FileMediaSource /Game/Movies/introSGS.introSGS
+[2022.08.22-15.27.00:665][177]LogContentValidation: Display: Validating MediaTexture /Game/Movies/NewMediaPlayer_Video_2.NewMediaPlayer_Video_2
+[2022.08.22-15.27.00:665][177]LogContentValidation: Display: Validating Material /Game/Movies/NewMediaPlayer_Video_2_Mat_SGS.NewMediaPlayer_Video_2_Mat_SGS
